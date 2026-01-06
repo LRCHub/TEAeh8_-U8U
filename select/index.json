@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Knock it out!",
+  "base_artist": "天音かなた",
+  "createdAt": "2026-01-06T07:43:24.312948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Knock It Out Of The Park",
+      "artist": "Sam Dave",
+      "has_synced": false,
+      "path": "select/01_Knock_It_Out_Of_The_Park_Sam_Dave.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Knock It Out The Park",
+      "artist": "Sam & Dave",
+      "has_synced": false,
+      "path": "select/02_Knock_It_Out_The_Park_Sam_&_Dave.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Knock It Out",
+      "artist": "Yung Joc",
+      "has_synced": false,
+      "path": "select/03_Knock_It_Out_Yung_Joc.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Knock It Out",
+      "artist": "Yung Joc",
+      "has_synced": true,
+      "path": "select/04_Knock_It_Out_Yung_Joc.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Knock it out!",
+      "artist": "天音かなた",
+      "has_synced": true,
+      "path": "select/05_Knock_it_out!_天音かなた.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Knock It Out the Park (with The Dixie Flyers)",
+      "artist": "Sam & Dave",
+      "has_synced": false,
+      "path": "select/06_Knock_It_Out_the_Park_(with_The_Dixie_Flyers)_Sam_&_Dave.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Knock It Out the Park (with The Dixie Flyers)",
+      "artist": "Sam",
+      "has_synced": false,
+      "path": "select/07_Knock_It_Out_the_Park_(with_The_Dixie_Flyers)_Sam.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Knock It Out the Park",
+      "artist": "Sam",
+      "has_synced": false,
+      "path": "select/08_Knock_It_Out_the_Park_Sam.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Knock It Out (Explicit Album Version)",
+      "artist": "Yung Joc",
+      "has_synced": true,
+      "path": "select/09_Knock_It_Out_(Explicit_Album_Version)_Yung_Joc.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Knock it out!",
+      "artist": "天音かなた",
+      "has_synced": true,
+      "path": "select/10_Knock_it_out!_天音かなた.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Knock It out the Park",
+      "artist": "Willie Taylor",
+      "has_synced": false,
+      "path": "select/11_Knock_It_out_the_Park_Willie_Taylor.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Knock It Out The Park   With The Dixie Flyers",
+      "artist": "Sam & Dave",
+      "has_synced": false,
+      "path": "select/12_Knock_It_Out_The_Park_With_The_Dixie_Flyers_Sam_&_Dave.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Knock It Out Park",
+      "artist": "Sam & Dave",
+      "has_synced": false,
+      "path": "select/13_Knock_It_Out_Park_Sam_&_Dave.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Knock it out!",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_Knock_it_out!_天音かなた.txt"
+    }
+  ]
+}
